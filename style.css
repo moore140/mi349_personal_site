@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica;
+    background-color: green;
+    color: white;
+    padding: 30px;
+    margin-left: 25px;
+}
+
+#picture {
+    width: 750px;
+}
+
+h1 {
+    font-size: 3em;
+    padding-bottom: 3px;
+    border-bottom: 5px solid black;
+}
+
+#twitchlink {
+    font-size: 1.5em;
+    padding-left: 85px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
