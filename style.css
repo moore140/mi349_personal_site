@@ -28,3 +28,7 @@ h2 {
 .wrapper {
     display: flex;
 }
+
+.wrapper > div {
+    flex: 1;
+}
